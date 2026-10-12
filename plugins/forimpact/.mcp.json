@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "forimpact": {
+      "type": "http",
+      "url": "https://cohort.forimpactservices.org/mcp/mcp"
+    }
+  }
+}

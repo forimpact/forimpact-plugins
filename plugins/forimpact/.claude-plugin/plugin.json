@@ -1,0 +1,19 @@
+{
+  "name": "forimpact",
+  "version": "1.0.0",
+  "description": "The For Impact method in your own Claude: prepare funder visits, sharpen your message, and connect to For Impact data and tools. Free skills work for everyone; boot camp attendees and clients unlock more when they sign in.",
+  "displayName": "For Impact",
+  "author": {
+    "name": "For Impact",
+    "url": "https://forimpact.org"
+  },
+  "homepage": "https://forimpact.org/plugin",
+  "repository": "https://github.com/forimpact/forimpact-plugins",
+  "license": "SEE LICENSE IN README.md",
+  "keywords": [
+    "fundraising",
+    "nonprofit",
+    "for-impact",
+    "major-gifts"
+  ]
+}
