@@ -1,6 +1,6 @@
 # For Impact for Claude
 
-The For Impact method inside your own Claude. Version 1.0.0.
+The For Impact Approach inside your own Claude. Version 1.1.0.
 
 ## Install
 
@@ -20,6 +20,7 @@ latest version.
 
 - **visit-prep** v1.0.0
 - **altitude-messaging** v1.0.0
+- **for-impact** v1.0.0
 
 ## The For Impact connector
 

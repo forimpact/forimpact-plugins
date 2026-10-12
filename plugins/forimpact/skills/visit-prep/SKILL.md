@@ -286,7 +286,7 @@ else; keep the wording.
 
 ```
 ---
-Made with visit-prep v1.0.0 · the For Impact method, by For Impact®
+Made with visit-prep v1.0.0 · the For Impact Approach, by For Impact®
 Get the latest version only at https://forimpact.org/plugin
 A For Impact coach turns this into a funded conversation: https://forimpact.org/contact
 ```

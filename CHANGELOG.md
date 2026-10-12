@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 — 2026-10-13
+
+- **for-impact**: the For Impact Approach root — how For Impact thinks and talks
+  about funding (Story + Prospects + Process = Outcome, altitude,
+  predisposition, the closes). Routes specific work to visit-prep,
+  altitude-messaging or a For Impact coach.
+
 ## 1.0.0 — 2026-10-13
 
 First release, for the Columbus Funding Boot Camp.
