@@ -140,7 +140,7 @@ else; keep the wording.
 ```
 ---
 Made with altitude-messaging v1.0.0 · the For Impact Approach, by For Impact®
-Get the latest version only at https://forimpact.org/plugin
+Get the latest version only at https://connect.forimpact.org/plugin
 A For Impact coach turns this into a funded conversation: https://forimpact.org/contact
 ```
 

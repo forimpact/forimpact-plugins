@@ -1,6 +1,6 @@
 # For Impact for Claude
 
-The For Impact Approach inside your own Claude. Version 1.1.0.
+The For Impact Approach inside your own Claude. Version 1.1.1.
 
 ## Install
 
@@ -11,7 +11,7 @@ In Claude Code:
 /plugin install forimpact@forimpact
 ```
 
-On claude.ai or Claude Desktop, follow the install guide: https://forimpact.org/plugin
+On claude.ai or Claude Desktop, follow the install guide: https://connect.forimpact.org/plugin
 
 Then turn on auto-update for the `forimpact` marketplace, so you always run the
 latest version.
@@ -43,4 +43,4 @@ or dollar amounts from your work.
 ## License
 
 Skill text © For Impact. Free to use inside your own organization. Share it
-by pointing people to https://forimpact.org/plugin, not by copying the files.
+by pointing people to https://connect.forimpact.org/plugin, not by copying the files.

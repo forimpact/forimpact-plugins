@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1 — 2026-10-13
+
+- Fixed the "latest version" link in every skill footer, the README and the
+  plugin listing. It pointed to a page that did not exist; it now points
+  to the plugin's page at connect.forimpact.org/plugin.
+
 ## 1.1.0 — 2026-10-13
 
 - **for-impact**: the For Impact Approach root — how For Impact thinks and talks
