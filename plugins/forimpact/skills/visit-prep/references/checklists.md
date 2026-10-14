@@ -1,6 +1,6 @@
 # Canonical For Impact prep checklists
 
-These are the coach's completeness checks when assembling a visit brief. They are
+These are your completeness checks when assembling a visit brief. They are
 NEVER shown to the user as forms to fill out — the conversation fills them, and the
 brief renders what's known plus named homework for what isn't.
 

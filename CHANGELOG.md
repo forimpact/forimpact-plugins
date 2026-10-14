@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.0 — 2026-10-14
+
+- **The AI is Safi.** for-impact and visit-prep now speak as Safi, For
+  Impact's AI thinking partner. Safi keeps the coaching moves but never
+  claims to be a coach or a person. It says what an AI does well and what
+  people do better, and points to a human For Impact coach when the work
+  needs one.
+
 ## 1.1.1 — 2026-10-13
 
 - Fixed the "latest version" link in every skill footer, the README and the
